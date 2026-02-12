@@ -124,8 +124,3 @@ Apesar dos excelentes resultados em sensibilidade (Recall), o projeto possui lim
 4.  **Janela Temporal:** O modelo foi treinado com dados de um período específico da pandemia. Mudanças nas variantes do vírus ou nos protocolos de vacinação podem exigir o retreinamento do modelo para manter a eficácia.
    
 ---
-
-## 👨‍💻 Como Reproduzir
-1. Clone o repositório:
-   ```bash
-      git clone https://github.com/mateusnotgado/COVID.git
